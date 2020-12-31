@@ -1,0 +1,25 @@
+{
+  "name": "i544",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/",
+    "debug-test": "mocha --inspect-brk test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethanagopinath/i544.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chethanagopinath/i544/issues"
+  },
+  "homepage": "https://github.com/chethanagopinath/i544#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
